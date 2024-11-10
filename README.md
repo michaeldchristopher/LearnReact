@@ -1,2 +1,2 @@
 # LearnReact
-learning JavaScript, React and Node.js
+learning JavaScript, React and Node.js November 10, 2024
